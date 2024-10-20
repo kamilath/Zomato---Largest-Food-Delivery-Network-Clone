@@ -18,10 +18,10 @@ This project is a simple web page for a Zomato-themed food delivery service that
 
 - **Media Queries**: Used for responsive web design to ensure the site looks good on all device sizes.
 ## Usage
-Navigate through different sections of the website such as the hero section, food menu, and restaurant list.
+1.Navigate through different sections of the website such as the hero section, food menu, and restaurant list.
 
-Click on the Order Food button to navigate to the order.html page (Ensure you have the correct path if you're setting up a local environment).
+2.Click on the Order Food button to navigate to the order.html page (Ensure you have the correct path if you're setting up a local environment).
 
-Subscribe to the newsletter using the email input field.
+3.Subscribe to the newsletter using the email input field.
 ## Results
 The implementation of this project successfully demonstrates how a basic food delivery service can be presented through a web-based platform with a focus on user interaction, aesthetics, and functionality. 
